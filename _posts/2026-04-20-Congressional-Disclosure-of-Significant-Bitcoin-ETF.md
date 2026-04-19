@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congressional Disclosure of Significant Bitcoin ETF Purchase Raises Renewed Compliance and Timing Questions
-date: 2026-04-20
+date: 2026-04-18
 tags: [bitcoin, regulation, self-custody]
 share-title: Bitcoin Regulation 2026 – What You Must Know
 share-description: Latest legal changes + how to stay compliant. Full analysis in The Bitcoin Act newsletter.
