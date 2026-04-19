@@ -1,13 +1,11 @@
 ---
-title: Bitcoin Regulation 2026 – What Changed This Week
+title: Congressional Disclosure of Significant Bitcoin ETF Purchase Raises Renewed Compliance and Timing Questions
 layout: post
 date: 2026-04-20
 tags: [bitcoin, regulation, self-custody]
 share-title: Bitcoin Regulation 2026 – What You Must Know
 share-description: Latest legal changes + how to stay compliant. Full analysis in The Bitcoin Act newsletter.
 ---
-
-Congressional Disclosure of Significant Bitcoin ETF Purchase Raises Renewed Compliance and Timing Questions
 
 A recent financial disclosure by U.S. Representative Sheri Biggs has drawn attention within both legal and financial circles, following the reporting of a substantial investment in a bitcoin-linked exchange-traded fund. According to a House periodic transaction report filed this week, Biggs disclosed a purchase valued between $100,001 and $250,000 in a spot bitcoin ETF managed by a major asset manager.
 
