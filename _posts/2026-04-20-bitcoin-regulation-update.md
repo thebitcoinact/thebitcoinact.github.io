@@ -1,6 +1,6 @@
 ---
-title: Congressional Disclosure of Significant Bitcoin ETF Purchase Raises Renewed Compliance and Timing Questions
 layout: post
+title: Congressional Disclosure of Significant Bitcoin ETF Purchase Raises Renewed Compliance and Timing Questions
 date: 2026-04-20
 tags: [bitcoin, regulation, self-custody]
 share-title: Bitcoin Regulation 2026 – What You Must Know
