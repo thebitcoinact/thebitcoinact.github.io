@@ -5,15 +5,14 @@ baseurl: ""
 author: The Bitcoin Act
 logo: /assets/img/logo.png                     # you can change this later
 favicon: /assets/img/favicon.ico
-twitter_username: haly_john9878                # change to your X handle
-github_username: YOUR-GITHUB-USERNAME          # change to your GitHub username
+twitter_username: the_bitcoin_act                # change to your X handle
+github_username: thebitcoinact          # change to your GitHub username
 
 # SEO & Social settings (very important)
 social:
   name: The Bitcoin Act
   links:
     - https://thebitcoinact.xyz
-    - https://x.com/haly_john9878
 
 # Newsletter CTA (appears on every page)
 footer-extra: |
