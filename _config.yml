@@ -1,13 +1,13 @@
 title: The Bitcoin Act
 description: Bitcoin regulation, legal updates, self-custody guides & sovereignty tools. Subscribe to the newsletter for full issues + 21 sats rewards.
-url: "https://YOUR-GITHUB-USERNAME.github.io"   # ← Change this line to your exact GitHub URL
+url: "https://thebitcoinact.github.io"
 baseurl: ""
 permalink: pretty
 author: The Bitcoin Act
-logo: /assets/img/logo.png                     # you can change this later
+logo: /assets/img/logo.png                     
 favicon: /assets/img/favicon.ico
-twitter_username: the_bitcoin_act                # change to your X handle
-github_username: thebitcoinact          # change to your GitHub username
+twitter_username: the_bitcoin_act               
+github_username: thebitcoinact          
 
 # SEO & Social settings (very important)
 social:
