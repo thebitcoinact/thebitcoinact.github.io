@@ -1,6 +1,5 @@
 ---
 title: Bitcoin Regulation 2026 – What Changed This Week
-subtitle: Key legal updates for self-custody and Lightning payments
 layout: post
 date: 2026-04-20
 tags: [bitcoin, regulation, self-custody]
